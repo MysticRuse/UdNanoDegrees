@@ -16,7 +16,7 @@
         android:id="@+id/nanodegree_title"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="Android App Development"
+        android:text="NanoDegree Course Title"
         android:textSize="@dimen/nanodegree_textsize"
         android:textStyle="bold"
         android:textColor="@android:color/black"
